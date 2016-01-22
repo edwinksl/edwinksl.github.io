@@ -23,8 +23,11 @@ AUTHOR_FEED_RSS = None
 LINKS = None
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/edwinksl'),
-          ('GitHub', 'https://github.com/edwinksl'))
+SOCIAL = (('GitHub', 'https://github.com/edwinksl'),
+          ('Bitbucket', 'https://bitbucket.org/edwinksl'),
+          ('Facebook', 'https://www.facebook.com/edwinksl'),
+          ('Twitter', 'https://twitter.com/edwinksl'),
+          ('LinkedIn', 'https://www.linkedin.com/in/edwinksl'))
 
 DEFAULT_PAGINATION = 10
 
