@@ -35,3 +35,4 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 THEME = '/home/edwinksl/Git/pelican-bootstrap3'
+BOOTSTRAP_NAVBAR_INVERSE = True
