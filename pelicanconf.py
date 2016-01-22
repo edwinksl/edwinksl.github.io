@@ -36,3 +36,6 @@ DEFAULT_PAGINATION = 10
 
 THEME = '/home/edwinksl/Git/pelican-bootstrap3'
 BOOTSTRAP_NAVBAR_INVERSE = True
+
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
