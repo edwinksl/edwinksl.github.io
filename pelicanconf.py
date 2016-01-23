@@ -40,6 +40,6 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 
 CUSTOM_CSS = 'static/custom.css'
 
-STATIC_PATHS = ['images', 'extra/CNAME', 'extra/custom.css']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
-                       'extra/custom.css': {'path': 'static/custom.css'}}
+STATIC_PATHS = ['images', 'extras/CNAME', 'extras/custom.css']
+EXTRA_PATH_METADATA = {'extras/CNAME': {'path': 'CNAME'},
+                       'extras/custom.css': {'path': 'static/custom.css'}}
