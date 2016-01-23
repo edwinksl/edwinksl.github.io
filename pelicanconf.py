@@ -20,14 +20,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = None
+LINKS = (('Bazant Research Group', 'https://bazantgroup.mit.edu'),)
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/edwinksl'),
           ('Bitbucket', 'https://bitbucket.org/edwinksl'),
           ('Facebook', 'https://www.facebook.com/edwinksl'),
           ('Twitter', 'https://twitter.com/edwinksl'),
-          ('LinkedIn', 'https://www.linkedin.com/in/edwinksl'))
+          ('LinkedIn', 'https://www.linkedin.com/in/edwinksl'),)
 
 DEFAULT_PAGINATION = 10
 
