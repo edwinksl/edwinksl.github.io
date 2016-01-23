@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
+# Links
 LINKS = (('Bazant Research Group', 'https://bazantgroup.mit.edu'),)
 
 # Social widget
@@ -43,3 +43,13 @@ CUSTOM_CSS = 'static/custom.css'
 STATIC_PATHS = ['images', 'extras/CNAME', 'extras/custom.css']
 EXTRA_PATH_METADATA = {'extras/CNAME': {'path': 'CNAME'},
                        'extras/custom.css': {'path': 'static/custom.css'}}
+
+ARTICLE_PATHS = ['blog']
+ARTICLE_URL = 'blog/{slug}.html'
+ARTICLE_SAVE_AS = 'blog/{slug}.html'
+INDEX_SAVE_AS = 'blog/index.html'
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+MENUITEMS = [('Blog', '/blog'),
+             ('Research', '/pages/research.html'),
+             ('Resources', '/pages/resources.html')]
