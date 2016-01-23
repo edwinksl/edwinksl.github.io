@@ -27,7 +27,8 @@ SOCIAL = (('GitHub', 'https://github.com/edwinksl'),
           ('Bitbucket', 'https://bitbucket.org/edwinksl'),
           ('Facebook', 'https://www.facebook.com/edwinksl'),
           ('Twitter', 'https://twitter.com/edwinksl'),
-          ('LinkedIn', 'https://www.linkedin.com/in/edwinksl'),)
+          ('LinkedIn', 'https://www.linkedin.com/in/edwinksl'),
+          ('Quora', 'https://www.quora.com/profile/Edwin-Khoo'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -37,5 +38,8 @@ DEFAULT_PAGINATION = 10
 THEME = '/home/edwinksl/Git/pelican-bootstrap3'
 BOOTSTRAP_NAVBAR_INVERSE = True
 
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
+CUSTOM_CSS = 'static/custom.css'
+
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/custom.css']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+                       'extra/custom.css': {'path': 'static/custom.css'}}
