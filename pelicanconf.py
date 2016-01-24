@@ -1,6 +1,7 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
+# -*- coding: utf-8 -*-
+
+import os
 
 AUTHOR = 'Edwin Khoo'
 SITENAME = 'Edwin Khoo'
@@ -35,9 +36,11 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = '/home/edwinksl/Git/pelican-bootstrap3'
+# Theme options
+THEME = os.environ['HOME'] + '/Git/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
 
+# Custom CSS
 CUSTOM_CSS = 'static/custom.css'
 
 STATIC_PATHS = ['images', 'extras/CNAME', 'extras/custom.css']
