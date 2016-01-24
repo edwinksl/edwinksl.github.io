@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os
-
 AUTHOR = 'Edwin Khoo'
 SITENAME = 'Edwin Khoo'
 SITEURL = ''
@@ -37,15 +35,15 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 # Theme options
-THEME = os.path.join(os.environ['HOME'], 'Git/pelican-bootstrap3')
+THEME = '../pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
 
 # Custom CSS
 CUSTOM_CSS = 'static/custom.css'
 
 # Plugins
+PLUGIN_PATHS = ['..']
 PLUGINS = ['pelican_plugin-render_math']
-PLUGIN_PATHS = [os.path.join(os.environ['HOME'], 'Git')]
 
 STATIC_PATHS = ['images', 'extras/CNAME', 'extras/custom.css']
 EXTRA_PATH_METADATA = {'extras/CNAME': {'path': 'CNAME'},
