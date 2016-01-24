@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 # Theme options
-THEME = os.environ['HOME'] + '/Git/pelican-bootstrap3'
+THEME = os.path.join(os.environ['HOME'], 'Git/pelican-bootstrap3')
 BOOTSTRAP_THEME = 'flatly'
 
 # Custom CSS
