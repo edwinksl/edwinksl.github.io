@@ -5,3 +5,7 @@ body {
 .fa-quora-square:before {
   content: '\f059'
 }
+
+.fa-email-square:before{
+  content: '\f199'
+}
