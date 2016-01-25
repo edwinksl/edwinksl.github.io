@@ -9,3 +9,7 @@ body {
 .fa-email-square:before {
   content: '\f199'
 }
+
+.fa-google-scholar-square:before {
+  content: '\f02d'
+}

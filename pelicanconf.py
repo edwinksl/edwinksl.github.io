@@ -23,6 +23,7 @@ LINKS = (('Bazant Research Group', 'https://bazantgroup.mit.edu'),)
 
 # Social widget
 SOCIAL = (('Email', '&#109;&#97;&#105;&#108;&#116;&#111;&#58;%65%64%77%69%6e%6b%73%6c@%67%6d%61%69%6c.%63%6f%6d'),
+          ('Google Scholar', 'https://scholar.google.com/citations?user=y1-vy_0AAAAJ'),
           ('GitHub', 'https://github.com/edwinksl'),
           ('Bitbucket', 'https://bitbucket.org/edwinksl'),
           ('Facebook', 'https://www.facebook.com/edwinksl'),
