@@ -22,7 +22,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Bazant Research Group', 'https://bazantgroup.mit.edu'),)
 
 # Social widget
-SOCIAL = (('GitHub', 'https://github.com/edwinksl'),
+SOCIAL = (('Email', '&#109;&#97;&#105;&#108;&#116;&#111;&#58;%65%64%77%69%6e%6b%73%6c@%67%6d%61%69%6c.%63%6f%6d'),
+          ('GitHub', 'https://github.com/edwinksl'),
           ('Bitbucket', 'https://bitbucket.org/edwinksl'),
           ('Facebook', 'https://www.facebook.com/edwinksl'),
           ('Twitter', 'https://twitter.com/edwinksl'),
