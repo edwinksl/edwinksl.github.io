@@ -11,12 +11,12 @@ Title: Resources
 
 ## Git Large File Storage (LFS)
 
-1.  [Git Large File Storage](https://git-lfs.github.com/)
+1. [Git Large File Storage](https://git-lfs.github.com/)
 
 ## Git workflows
 
-1.  [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-2.  [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+1. [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+2. [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
 ## Python
 
@@ -50,3 +50,7 @@ Title: Resources
 
 -   Style guidelines
     1. [MATLAB Style Guidelines 2.0](http://www.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0)
+
+## Jupyter
+
+1. [Jupyter Documentation](http://jupyter.readthedocs.org/en/latest/index.html)
