@@ -1,6 +1,6 @@
 Title: Resources
 
-## [Git](#git)
+## Git
 
 -   Tutorials
     1. [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/)
@@ -9,16 +9,16 @@ Title: Resources
     4. [Git Tools - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
     5. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
-## [Git Large File Storage (LFS)](#git-lfs)
+## Git Large File Storage (LFS)
 
 1. [Git Large File Storage](https://git-lfs.github.com/)
 
-## [Git workflows](#git-workflows)
+## Git workflows
 
 1. [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 2. [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
-## [Python](#python)
+## Python
 
 -   Tutorials
     1. [Official Python 3 tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -31,12 +31,12 @@ Title: Resources
     1. [PEP 0008 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
     2. [PEP 0257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 
-## [LaTeX](#latex)
+## LaTeX
 
 -   Tutorials
     1. [The Not So Short Introduction to LaTeX2e](https://www.ctan.org/pkg/lshort-english)
 
-## [Markdown](#markdown)
+## Markdown
 
 -   Tutorials
     1. [Markdown](http://daringfireball.net/projects/markdown/)
@@ -46,11 +46,11 @@ Title: Resources
     5. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
     6. [Bitbucket Supported Markdown for READMEs, comments, and Wiki](https://bitbucket.org/tutorials/markdowndemo)
 
-## [MATLAB](#matlab)
+## MATLAB
 
 -   Style guidelines
     1. [MATLAB Style Guidelines 2.0](http://www.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0)
 
-## [Jupyter](#jupyter)
+## Jupyter
 
 1. [Jupyter Documentation](http://jupyter.readthedocs.org/en/latest/index.html)
