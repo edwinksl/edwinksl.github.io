@@ -13,3 +13,12 @@ body {
 .fa-google-scholar-square:before {
   content: '\f14c'
 }
+
+/* Offset anchors from header */
+.toclink:before {
+  display: block;
+  content: "";
+  margin-top: -70px;
+  height: 70px;
+  visibility: hidden;
+}
