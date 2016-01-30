@@ -40,11 +40,9 @@ Title: Resources
 
 -   Tutorials
     1. [Markdown](http://daringfireball.net/projects/markdown/)
-    2. [Markdown Basics](https://help.github.com/articles/markdown-basics/)
-    3. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
-    4. [Writing on GitHub](https://help.github.com/articles/writing-on-github/)
-    5. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-    6. [Bitbucket Supported Markdown for READMEs, comments, and Wiki](https://bitbucket.org/tutorials/markdowndemo)
+    2. [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
+    3. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+    4. [Bitbucket Supported Markdown for READMEs, comments, and Wiki](https://bitbucket.org/tutorials/markdowndemo)
 
 ## MATLAB
 
