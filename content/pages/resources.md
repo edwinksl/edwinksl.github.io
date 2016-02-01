@@ -9,6 +9,11 @@ Title: Resources
     4. [Git Tools - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
     5. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
+<!--  -->
+
+-   Unclassified
+    1. [Git Tools - Interactive Staging](https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging)
+
 ## Git Large File Storage (LFS)
 
 1. [Git Large File Storage](https://git-lfs.github.com/)
