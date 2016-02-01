@@ -40,6 +40,7 @@ Title: Resources
 
 -   Tutorials
     1. [The Not So Short Introduction to LaTeX2e](https://www.ctan.org/pkg/lshort-english)
+    2. [Short Math Guide for LaTeX](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf)
 
 ## Markdown
 
