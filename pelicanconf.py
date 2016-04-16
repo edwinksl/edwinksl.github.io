@@ -44,7 +44,7 @@ BOOTSTRAP_THEME = 'flatly'
 CUSTOM_CSS = 'static/custom.css'
 
 # Markdown extensions
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'toc(anchorlink=True)']
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra']
 
 # Plugins
 PLUGIN_PATHS = ['..']
