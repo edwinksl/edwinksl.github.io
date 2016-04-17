@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "lint": {
+        "no-missing-blank-lines": false,
+        "list-item-spacing": false,
+        "list-item-indent": false
+    }
+  }
+}
