@@ -13,6 +13,7 @@ Title: Resources
 
 -   Unclassified
     1. [Git Tools - Interactive Staging](https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging)
+    2. [Git Tools - Stashing and Cleaning](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
 
 ## Git Large File Storage (LFS)
 
