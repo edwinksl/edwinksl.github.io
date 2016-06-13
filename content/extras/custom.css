@@ -13,3 +13,7 @@ body {
 .fa-google-scholar-square:before {
   content: '\f14c'
 }
+
+.fa-stack-exchange-square:before {
+  content: '\f18d'
+}
