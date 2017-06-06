@@ -44,9 +44,6 @@ BOOTSTRAP_THEME = 'flatly'
 # Custom CSS
 CUSTOM_CSS = 'static/custom.css'
 
-# Markdown extensions
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra']
-
 # Plugins
 PLUGIN_PATHS = ['..']
 PLUGINS = ['pelican_plugin-render_math']
