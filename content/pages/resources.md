@@ -3,10 +3,10 @@ Title: Resources
 ## Git
 
 -   Tutorials
-    1. [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/)
-    2. [Git Immersion](http://gitimmersion.com/index.html)
+    1. [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+    2. [Git Immersion](http://gitimmersion.com/)
     3. [Git Reference](http://gitref.org/)
-    4. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+    4. [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
     5. [Git subtree: the alternative to Git submodule](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
 
 <!--  -->
@@ -29,8 +29,8 @@ Title: Resources
 
 -   Tutorials
     1. [Official Python 3 tutorial](https://docs.python.org/3/tutorial/index.html)
-    2. [Dive Into Python 3](http://www.diveintopython3.net)
-    3. [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
+    2. [Dive Into Python 3](http://www.diveintopython3.net/)
+    3. [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 
 <!--  -->
 
@@ -42,12 +42,11 @@ Title: Resources
 
 -   Tutorials
     1. [The Not So Short Introduction to LaTeX2e](https://www.ctan.org/pkg/lshort-english)
-    2. [Short Math Guide for LaTeX](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf)
 
 ## Markdown
 
 -   Tutorials
-    1. [Markdown](http://daringfireball.net/projects/markdown/)
+    1. [Markdown](https://daringfireball.net/projects/markdown/)
     2. [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
     3. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
     4. [Bitbucket Supported Markdown for READMEs, comments, and Wiki](https://bitbucket.org/tutorials/markdowndemo)
@@ -55,8 +54,8 @@ Title: Resources
 ## MATLAB
 
 -   Style guidelines
-    1. [MATLAB Style Guidelines 2.0](http://www.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0)
+    1. [MATLAB Style Guidelines 2.0](https://www.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0)
 
 ## Jupyter
 
-1. [Jupyter Documentation](http://jupyter.readthedocs.org/en/latest/index.html)
+1. [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/)
