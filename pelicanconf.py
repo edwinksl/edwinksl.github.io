@@ -45,8 +45,8 @@ BOOTSTRAP_THEME = 'flatly'
 CUSTOM_CSS = 'static/custom.css'
 
 # Plugins
-PLUGIN_PATHS = ['..']
-PLUGINS = ['pelican_plugin-render_math']
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['render_math']
 
 STATIC_PATHS = ['images', 'extras/CNAME', 'extras/custom.css']
 EXTRA_PATH_METADATA = {'extras/CNAME': {'path': 'CNAME'},
