@@ -7,6 +7,7 @@ Title: Resources
     2. [Git Immersion](http://gitimmersion.com/index.html)
     3. [Git Reference](http://gitref.org/)
     4. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+    5. [Git subtree: the alternative to Git submodule](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
 
 <!--  -->
 
