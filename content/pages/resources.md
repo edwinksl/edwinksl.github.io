@@ -6,14 +6,14 @@ Title: Resources
     1. [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/)
     2. [Git Immersion](http://gitimmersion.com/index.html)
     3. [Git Reference](http://gitref.org/)
-    4. [Git Tools - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
-    5. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+    4. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 <!--  -->
 
--   Unclassified
-    1. [Git Tools - Interactive Staging](https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging)
-    2. [Git Tools - Stashing and Cleaning](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
+-   Git Pro book
+    1. [Git Tools - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
+    2. [Git Tools - Interactive Staging](https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging)
+    3. [Git Tools - Stashing and Cleaning](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
 
 ## Git Large File Storage (LFS)
 
