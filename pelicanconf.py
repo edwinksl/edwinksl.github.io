@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Bazant Research Group', 'https://bazantgroup.mit.edu/'),)
 
 # Social widget
-SOCIAL = (('Email', 'mailto:edwinksl@gmail.com'),
+SOCIAL = (('Email', 'mailto:edwinksl@gmail.com', 'envelope'),
           ('Google Scholar', 'https://scholar.google.com/citations?user=y1-vy_0AAAAJ'),
           ('GitHub', 'https://github.com/edwinksl'),
           ('Bitbucket', 'https://bitbucket.org/edwinksl/'),
