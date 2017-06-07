@@ -2,10 +2,10 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.fa-quora-square:before {
-  content: '\f2c4'
-}
-
 .fa-google-scholar-square:before {
   content: '\f1a0'
+}
+
+.fa-quora-square:before {
+  content: '\f2c4'
 }
