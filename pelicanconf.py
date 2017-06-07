@@ -19,10 +19,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Links
-LINKS = (('Bazant Research Group', 'https://bazantgroup.mit.edu/'),)
+LINKS = [('Bazant Research Group', 'https://bazantgroup.mit.edu/')]
 
 # Social widget
-SOCIAL = (('Email', 'mailto:edwinksl@gmail.com', 'envelope'),
+SOCIAL = [('Email', 'mailto:edwinksl@gmail.com', 'envelope'),
           ('Google Scholar', 'https://scholar.google.com/citations?user=y1-vy_0AAAAJ'),
           ('GitHub', 'https://github.com/edwinksl'),
           ('Bitbucket', 'https://bitbucket.org/edwinksl/'),
@@ -30,7 +30,7 @@ SOCIAL = (('Email', 'mailto:edwinksl@gmail.com', 'envelope'),
           ('Facebook', 'https://www.facebook.com/edwinksl'),
           ('Twitter', 'https://twitter.com/edwinksl'),
           ('LinkedIn', 'https://www.linkedin.com/in/edwinksl/'),
-          ('Quora', 'https://www.quora.com/profile/Edwin-Khoo'),)
+          ('Quora', 'https://www.quora.com/profile/Edwin-Khoo')]
 
 DEFAULT_PAGINATION = 10
 
