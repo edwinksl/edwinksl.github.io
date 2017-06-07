@@ -38,15 +38,16 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 # Theme options
-THEME = '../pelican-bootstrap3'
+THEME = '../pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 # Custom CSS
 CUSTOM_CSS = 'static/custom.css'
 
 # Plugins
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['render_math']
+PLUGINS = ['render_math', 'i18n_subsites']
 
 STATIC_PATHS = ['images', 'extras/CNAME', 'extras/custom.css']
 EXTRA_PATH_METADATA = {'extras/CNAME': {'path': 'CNAME'},
