@@ -2,18 +2,10 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.fa-quora-square:before {
-  content: '\f059'
-}
-
-.fa-email-square:before {
-  content: '\f199'
-}
-
 .fa-google-scholar-square:before {
-  content: '\f14c'
+  content: '\f1a0'
 }
 
-.fa-stack-exchange-square:before {
-  content: '\f18d'
+.fa-quora-square:before {
+  content: '\f2c4'
 }
