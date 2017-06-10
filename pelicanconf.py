@@ -38,7 +38,7 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 # Theme options
-THEME = '../pelican-themes/pelican-bootstrap3'
+THEME = 'pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
