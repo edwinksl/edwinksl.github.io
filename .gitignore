@@ -1,6 +1,6 @@
 venv/
 __pycache__/
-output/
+/output/
 *.pid
 .remarkrc
 node_modules/
