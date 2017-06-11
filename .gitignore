@@ -4,6 +4,7 @@ output/
 *.pid
 .remarkrc
 node_modules/
+
 pelican-themes/*
 !pelican-themes/pelican-bootstrap3/
 
