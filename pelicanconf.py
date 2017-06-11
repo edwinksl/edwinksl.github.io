@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 AUTHOR = 'Edwin Khoo'
 SITENAME = 'Edwin Khoo'
