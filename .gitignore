@@ -4,5 +4,9 @@ output/
 *.pid
 .remarkrc
 node_modules/
-pelican-themes/
-pelican-plugins/
+pelican-themes/*
+!pelican-themes/pelican-bootstrap3/
+
+pelican-plugins/*
+!pelican-plugins/render_math/
+!pelican-plugins/i18n_subsites/
