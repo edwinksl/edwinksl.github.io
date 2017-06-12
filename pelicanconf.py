@@ -29,7 +29,8 @@ SOCIAL = [('Email', 'mailto:edwinksl@gmail.com', 'envelope'),
           ('Facebook', 'https://www.facebook.com/edwinksl'),
           ('Twitter', 'https://twitter.com/edwinksl'),
           ('LinkedIn', 'https://www.linkedin.com/in/edwinksl/'),
-          ('Quora', 'https://www.quora.com/profile/Edwin-Khoo')]
+          ('Quora', 'https://www.quora.com/profile/Edwin-Khoo'),
+          ('Reddit', 'https://www.reddit.com/user/edwinksl')]
 
 DEFAULT_PAGINATION = 10
 
