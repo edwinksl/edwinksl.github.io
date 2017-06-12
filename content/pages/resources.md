@@ -9,7 +9,7 @@ Title: Resources
     4. [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
     5. [Git subtree: the alternative to Git submodule](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
 
-<!--  -->
+<!-- -->
 
 -   Git Pro book
     1. [Git Tools - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
@@ -32,7 +32,7 @@ Title: Resources
     2. [Dive Into Python 3](http://www.diveintopython3.net/)
     3. [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 
-<!--  -->
+<!-- -->
 
 -   Style guides and conventions
     1. [PEP 0008 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
