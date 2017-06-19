@@ -4,7 +4,7 @@ Date: 2017-06-19
 
 ### Prelude
 
-The GitHub repository for this website is located at <https://github.com/edwinksl/edwinksl.github.io>. Issues, pull requests, comments and suggestions are welcome!
+The GitHub repository, or repo for short, for this website is located at <https://github.com/edwinksl/edwinksl.github.io>. Issues, pull requests, comments and suggestions are welcome!
 
 ### Introduction
 
@@ -29,7 +29,7 @@ The instructions are given for Ubuntu, specifically Ubuntu 17.04, but they shoul
         sudo apt update
         sudo apt install virtualenv
 
-2. Create and activate a virtualenv in the Git repository, or repo for short, for the website. My Git repo is located at `~/git/edwinksl.github.io/`, so the commands are:
+2. Create and activate a virtualenv in the Git repo for the website. My Git repo is located at `~/git/edwinksl.github.io/`, so the commands are:
 
         cd ~/git/edwinksl.github.io/
         virtualenv venv -p python3.6  # create a virtualenv for Python 3.6
