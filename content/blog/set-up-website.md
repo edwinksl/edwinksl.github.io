@@ -1,5 +1,5 @@
 Title: Set up website with Pelican, Google Domains and Netlify
-Date: 2017-06-23
+Date: 2017-06-19
 
 
 ### Prelude
