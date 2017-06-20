@@ -1,6 +1,6 @@
 Title: Set up website with Pelican, Google Domains and Netlify
 Date: 2017-06-19
-
+Tags: pelican, google domains, netlify, custom domains
 
 ### Prelude
 
