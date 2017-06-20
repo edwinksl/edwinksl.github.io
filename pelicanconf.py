@@ -64,3 +64,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [('Blog', '/blog'),
              ('Research', '/pages/research.html'),
              ('Resources', '/pages/resources.html')]
+
+DISPLAY_ARTICLE_INFO_ON_INDEX = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
