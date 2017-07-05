@@ -25,6 +25,10 @@ Title: Resources
 1. [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 2. [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
+### tmux
+
+1. [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
+
 ### Python
 
 -   Tutorials
