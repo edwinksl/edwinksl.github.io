@@ -49,12 +49,13 @@ CUSTOM_CSS = 'static/custom.css'
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['render_math', 'i18n_subsites']
 
-STATIC_PATHS = ['images', 'extras/custom.css', '../CNAME', '../README.md', '../LICENSE.md', '../_headers']
+STATIC_PATHS = ['images', 'extras/custom.css', '../CNAME', '../README.md', '../LICENSE.md', '../_headers', '../keybase.txt']
 EXTRA_PATH_METADATA = {'extras/custom.css': {'path': 'static/custom.css'},
                        '../CNAME': {'path': 'CNAME'},
                        '../README.md': {'path': 'README.md'},
                        '../LICENSE.md': {'path': 'LICENSE.md'},
-                       '../_headers': {'path': '_headers'}}
+                       '../_headers': {'path': '_headers'},
+                       '../keybase.txt': {'path': 'keybase.txt'}}
 
 ARTICLE_PATHS = ['blog']
 ARTICLE_URL = 'blog/{slug}.html'
