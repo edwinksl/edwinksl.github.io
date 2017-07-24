@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/edwinksl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://edwinksl.com
+  * I am edwinksl (https://keybase.io/edwinksl) on keybase.
+  * I have a public key with fingerprint 57B5 3B3F 0636 455B 5339  0610 CFA4 DACF AC5F B517
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;0120fe7664962cff26b7d6511346f855ef4fa7a845d9673bdd67db8690b3b59d4bb20a&quot;,
+            &quot;fingerprint&quot;: &quot;57b53b3f0636455b53390610cfa4dacfac5fb517&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;key_id&quot;: &quot;cfa4dacfac5fb517&quot;,
+            &quot;kid&quot;: &quot;010104a74813583204c92fa1d534856a2e4bf6ed8353919329cce6b9f8e9915d4a9e0a&quot;,
+            &quot;uid&quot;: &quot;16d5198e97a40789f2f13b323603f119&quot;,
+            &quot;username&quot;: &quot;edwinksl&quot;
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;edwinksl.com&quot;,
+            &quot;protocol&quot;: &quot;https:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;ctime&quot;: 1500862813,
+    &quot;expire_in&quot;: 157680000,
+    &quot;prev&quot;: &quot;68fde11b6840e0048e68af9ac516788ac8c74175c8b50b9d630c319a77d202b3&quot;,
+    &quot;seqno&quot;: 18,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJ9TJVVGOcjjIsJRCzWFKi3xKV4ez/P+753DgquGzpa1phIBtf34xx4
+vXDv9X5wJVQEWzWDXT+mKLGkromBJBrOgU7CKBQt2wU2BAeY4hhqXD5sYDo6l+U/
+rXO2c/Y8z+/3O7/n2elcEhoUEXzj+MCNU6ZzccHXOo64gnJcObmlhGxVSwhDKWGG
+CxcsVKHDaTJrKmEgSIomEeQBYEVAKwjRQOZVwFEUwwIkcBxELJJ4SWA5VQQ8I6sq
+4FVZACIpMzInqqws06REJBNIs+RDu82uWZxYluNljpEZRAIGsByHA0YkAUUqSGJV
+CZ8Kh2SO4jGxwOoIMLA5WXJAvWbFORyYFuz9D/6Zb7xZiWcFiuEEhiZZRaSRRKkc
+wwockGjIyghAVWA4RqREhhYVBQJZRAIURYpTWUmEC75dC3IUUDlKxDVeYkleEBGN
+KOyfZgDJIIoSA0AHtFukIojRUHVrFrOjkNiZTOBssabAwGADnfwHoVesRZhrs1ud
+VsVaiCsFTqfNYQgwnSW2ANQNZdO/IiZZs6h4jphRDO0OzWohDBRGKk4toEpxJCkA
+GnecTMDtNs0OTVoAwfFAIPEKvAOLsSQQkAopSgYCS0KSZAUIBAmJeIgU4AVBUgSF
+ZymeUwSZI2VRBQypMJQo8bxKk7TMEIG2tlmsWFvAPqV8rOnQ8i2S02WHxM7LHR89
+FxQcEbQoLCTwwYIidNHPvl1lbdR8SW46KvhsNC709mn93Tdr4maYQvel19bVPT6U
+dqeiMqZgy/4nZ8a+65l7QHs3PvWPhumMp/rbSw8bSlK/+vnI3CV/Z7ixqb9d95Kn
+d6bfONTcfXRsZEdi1qOlu/Y0J7qaZ0dWLitH5e7T5UWjv/06ZZTuHf4gYSIbDcWy
+YbtD0L7rex1z5TWL5eyYVO+q5YUtct/MmpF9n/5wwXehqvJ6be2ZrV3dtgMZeYat
+93/sE77VVfcIKL0lRf+wLqb5smHaWjTy+6vUG6z97NJVus1FJJ31+ENvnGRuC5Wu
+/XG/s2HPk0WZx2zvZwy1yVlJUXkno16obzjxfZWhj/b4lQeNTTOb9K8g3+AsuePW
+pDFed9Hv8rVYexMZ8XhbbrDD4SOm/jzrHm4t9rPmmvHyBm2Ze365caq673x6/KGf
+oiKnbWh2/JMD3vCMta8f3ORb+bCq62ORvvjOzcgryjH3mMf5qO7v2v1HzZPxvszp
+ir+Su5tast9eEQ6v1G1Yb0tPGtDpX/RHNu/KK2jM8YV7DRNdaxvTGstaQm5lt46O
+6a561Im3hqvPDxbc3FKzrj3cneCMXl1/oqLUr7VHJ6Td+7p3/cD0yc1lrbG385Ls
+n4et2H7Oe6d+Q6bhi92RTz1B3aGe2PFfvnm+J9WzN7y3Y/Xku8NrBlMM76VcHSgz
+Fr/85eJt8zVL7m78B42WynE=
+=sm2x
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/edwinksl
+
+==================================================================
