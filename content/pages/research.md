@@ -1,3 +1,3 @@
 Title: Research
 
-Testing things.
+My research interests broadly include electrochemistry, applied mathematics and numerical simulation.
